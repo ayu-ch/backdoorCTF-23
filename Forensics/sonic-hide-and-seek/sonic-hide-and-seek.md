@@ -1,4 +1,4 @@
-* This is a writeup to the sonic-hide-and-seek challenge from forensics category.*
+* This is a writeup to the sonic-hide-and-seek challenge from forensics category. *
 
 We get a *hideandseek.wav* file.
 
