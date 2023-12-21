@@ -25,6 +25,6 @@ After opening the .txt file , we get this:
 
 > Part3: 4r5n't\_th3y?}
 
-Hence the flag is ```flag{aud105\_4r3\_c00l\_4r5n't\_th3y?}```
+Hence the flag is ```flag{aud105_4r3_c00l_4r5n't_th3y?}```
 
 Happy hacking!
